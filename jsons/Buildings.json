@@ -1,0 +1,8 @@
+[
+    {
+        "name": "More Resources",
+        "isNationalWonder": "true",
+        "cost": -1,
+        "uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced","Double quantity of [Coal] produced","Double quantity of [Oil] produced","Double quantity of [Aluminum] produced","Double quantity of [Uranium] produced","Requires a [Palace] in this city","Will not be displayed in Civilopedia"],     
+    },
+]
